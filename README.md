@@ -1,7 +1,13 @@
 ### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Welcome+To+Gulkovva19's+Github+Profile..)](https://git.io/typing-svg)
+
+I'm Ekaterina, Frontend developer from St Petersburg👩🏽‍💻
+
+<div id="header" align="start">
+  <img src="https://media4.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif?cid=ecf05e47l27vsn7hyv16z9vnjkb2zewqdvydl96vv5becv46&rid=giphy.gif&ct=g" width="200"/>
+</div>
 
 <!--
-**elarionova25/elarionova25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
