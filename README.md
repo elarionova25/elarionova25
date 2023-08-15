@@ -11,7 +11,7 @@ I'm Ekaterina, Frontend developer from St Petersburg👩🏽‍💻
 - <a href="https://t.me/eelarionova" target="blank">Telegram</a>
 - <a href="ekaterinalarionova25@gmail.com" target="blank">E-mail</a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elarionova25&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 
 Here are some ideas to get you started:
