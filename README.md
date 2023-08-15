@@ -1,7 +1,6 @@
-### Hi there 👋
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Welcome+To+elarionova25's+Github+Profile&color=f75c7e)](https://git.io/typing-svg)
 
-I'm Ekaterina, Frontend developer from St Petersburg👩🏽‍💻
+### Hi there 👋 I'm Ekaterina, Frontend developer from St Petersburg👩🏽‍💻
 
 ### Connect with me:
 - <a href="https://t.me/eelarionova" target="blank">Telegram</a>
