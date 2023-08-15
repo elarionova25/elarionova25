@@ -7,6 +7,11 @@ I'm Ekaterina, Frontend developer from St Petersburg👩🏽‍💻
   <img src="https://media4.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif?cid=ecf05e47l27vsn7hyv16z9vnjkb2zewqdvydl96vv5becv46&rid=giphy.gif&ct=g" width="200"/>
 </div>
 
+### Connect with me:
+- <a href="https://t.me/eelarionova" target="blank">Telegram</a>
+- <a href="ekaterinalarionova25@gmail.com" target="blank">E-mail</a>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 
 Here are some ideas to get you started:
